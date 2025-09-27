@@ -1,1 +1,0 @@
-/usr/bin/clang++ -g -Xlinker --dependency-file=CMakeFiles/raylib_project.dir/link.d CMakeFiles/raylib_project.dir/main.cpp.o -o raylib_project  /usr/lib/libraylib.so -L/usr/lib -lraylib
