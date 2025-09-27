@@ -1,0 +1,3 @@
+/home/masonic/projects/learning/raylib_project/build/CMakeFiles/raylib_project.dir
+/home/masonic/projects/learning/raylib_project/build/CMakeFiles/edit_cache.dir
+/home/masonic/projects/learning/raylib_project/build/CMakeFiles/rebuild_cache.dir

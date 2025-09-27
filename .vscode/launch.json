@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug RayLib Project",
+      "type": "codelldb",
+      "request": "launch",
+      "program": "${workspaceFolder}/build/raylib_project",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "preLaunchTask": "build",
+      "stopOnEntry": false
+    }
+  ]
+}
